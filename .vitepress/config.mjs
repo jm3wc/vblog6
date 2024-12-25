@@ -110,7 +110,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/jm3wc' }
+      { icon: 'github', link: 'https://github.com/jm3wc' },
+      { icon: 'https://s1.aigei.com/src/img/png/a8/a89d6526dbde467aa5650de752a19630.png?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:8ZHQ9r-Fgsqzi3hChGPOKtJg_QQ=', link: 'https://space.bilibili.com/168124201' }
     ],
     footer: {
       copyright: 'Copyright © 2023-present CWL'
