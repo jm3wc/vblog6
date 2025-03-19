@@ -97,6 +97,12 @@ export default defineConfig({
           { text: 'ChatGPT', link: '/ChatGPT' },
         ],
       },
+      {
+        text: "音乐制作",
+        items: [
+          { text: '学前必看', link: '/学前必看' },
+        ],
+      }
     ],
     // 设置搜索框的样式
     search: {
